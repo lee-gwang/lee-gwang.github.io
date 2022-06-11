@@ -1,3 +1,6 @@
+# 코멘트
+- 페이지에서, 큰 목차 변경하려면 _data 에서 주석처리하거나 새로 만들거나 하면됨
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
