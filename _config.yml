@@ -61,7 +61,7 @@ author:
   name   : "이 광 한"
   avatar : "/assets/images/gwang.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
-#   links:
+  links:
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       url: "https://"
@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url: "https://github.com/"
